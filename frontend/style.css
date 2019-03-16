@@ -1,0 +1,14 @@
+body {
+    background-color: darkcyan;
+    font-family: monospace;
+    color: cyan;
+}
+
+h1 {
+    font-size: 20px;
+}
+
+button {
+    background-color: black;
+    color: cyan;
+}
