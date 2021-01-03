@@ -1,4 +1,19 @@
+body {
+    background-image: url('mysterious-woman-better-resolution.jpg'); /*https://pixabay.com/*/
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position:center;
+}
 
+.content > a, a:visited {
+    text-decoration: none;
+    color: #212529;
+}
+.content > a:hover {
+    color: #d63384;
+}
+/*
 body {
     background-color: #BFFCFB;
     font-family: fantasy;
@@ -24,7 +39,7 @@ body {
 }
 #content {
     width: 80%;
-    margin: 0 auto; /* Center the DIV horizontally */
+    margin: 0 auto;
     position: fixed;
     top: 120px;
     bottom: 70px;
@@ -50,3 +65,4 @@ h1 {
     margin: 0;
     padding: 0;
 }
+*/
